@@ -1,72 +1,61 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ShopPlusCol.com" resolutions="1x" timestamp="1629056075699">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Shoppluscol.com" resolutions="1x" timestamp="1629160771624">
   <folder name="css">
-    <file name="site_global.css" crc="4291437473"/>
-    <file name="master_a-p_g_-maestra.css" crc="3869365087" ref="index"/>
-    <file name="index.css" crc="198305508" ref="index"/>
+    <file name="site_global.css" crc="4013350794"/>
+    <file name="master_a-p_g_-maestra.css" crc="3823072403" ref="index"/>
+    <file name="index.css" crc="3960251875" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="montserrat-regular.woff" crc="218007397"/>
-    <file name="montserrat-regular.eot" crc="3927671184"/>
+    <file name="montserrat-bold.woff" crc="4119092551"/>
+    <file name="montserrat-bold.eot" crc="186350765"/>
+    <file name="montserrat-regular.woff" crc="455171595"/>
+    <file name="montserrat-regular.eot" crc="4009417673"/>
+    <file name="montserrat-semibold.woff" crc="3886531039"/>
+    <file name="montserrat-semibold.eot" crc="4076863422"/>
+  </folder>
+  <folder name="assets">
+    <file name="camion-de-reparto.svg" crc="9187361" seo="true" mt="1629156876000"/>
+    <file name="repartidor.svg" crc="4055884180" seo="true" mt="1629156871000"/>
+    <file name="entrega-de-comida.svg" crc="341518647" seo="true" mt="1629156868000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3939489907" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="pexels-alena-darmel-7322198.jpg" crc="453566642" ref="index">
+    <file name="pexels-alena-darmel-7322198.jpg" crc="4151919880" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-menu.svg" crc="39803141" ref="index"/>
-    <file name="icon-menu_poster_u3939.png" crc="507061211" ref="index"/>
-    <file name="icon-cerrar.svg" crc="3979695559" ref="index"/>
-    <file name="icon-cerrar_poster_u3942.png" crc="3849048681" ref="index"/>
+    <file name="logo shoppluscol negativo alta resulucion.png" crc="4223956530" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camion-de-reparto.svg" crc="9187361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camion-de-reparto_poster_.png" crc="4057705053" ref="index"/>
+    <file name="repartidor.svg" crc="4055884180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="repartidor_poster_.png" crc="4037625064" ref="index"/>
+    <file name="entrega-de-comida.svg" crc="341518647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entrega-de-comida_poster_.png" crc="3854018195" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="logo shoppluscol negativo alta resulucion.png" crc="4217746927" ref="index">
+    <file name="1.jpg" crc="3872861659" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="separador-img-1.jpg" crc="265519590" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img-proyecto-01.jpg" crc="166120384" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img-proyecto-02.jpg" crc="166120384" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img-proyecto-03.jpg" crc="166120384" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="img-proyecto-04.jpg" crc="166120384" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img-proyecto-05.jpg" crc="166120384" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img-proyecto-06.jpg" crc="166120384" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="testimonial01.jpg" crc="3965090471" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="testimonial02.jpg" crc="3965090471" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="testimonial03.jpg" crc="3965090471" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="testimonial04.jpg" crc="3965090471" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="separador-img-2.jpg" crc="265519590" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-fb.svg" crc="425697486" seo="true" ref="index">
@@ -78,5 +67,5 @@
     </file>
     <file name="icon-ig_poster_.png" crc="3976674464" ref="index"/>
   </folder>
-  <file name="index.html" crc="3846092953" seo="true" mt="1629055963112" redirect="true"/>
+  <file name="index.html" crc="4029901062" seo="true" mt="1629159513171" redirect="true"/>
 </manifest>
