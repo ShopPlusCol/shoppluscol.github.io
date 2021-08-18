@@ -1,0 +1,117 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Shoppluscol.com" resolutions="1x" timestamp="1629260350385">
+  <folder name="css">
+    <file name="site_global.css" crc="4013350794"/>
+    <file name="master_a-p_g_-maestra.css" crc="53283033" ref="index:tienda:sin-título-3:tienda---copia"/>
+    <file name="index.css" crc="4115938633" ref="index"/>
+    <file name="tienda.css" crc="4204692245" ref="tienda"/>
+    <file name="sin-t_tulo-3.css" crc="3826207444" ref="sin-título-3"/>
+    <file name="tienda---copia.css" crc="448288921" ref="tienda---copia"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-regular.woff" crc="455171595"/>
+    <file name="montserrat-regular.eot" crc="4009417673"/>
+    <file name="montserrat-semibold.woff" crc="3886531039"/>
+    <file name="montserrat-semibold.eot" crc="4076863422"/>
+    <file name="montserrat-bold.woff" crc="4119092551"/>
+    <file name="montserrat-bold.eot" crc="186350765"/>
+    <file name="montserrat-thin.woff" crc="475943301"/>
+    <file name="montserrat-thin.eot" crc="79445919"/>
+    <file name="montserrat-medium.woff" crc="235203162"/>
+    <file name="montserrat-medium.eot" crc="4130704728"/>
+  </folder>
+  <folder name="assets">
+    <file name="camion-de-reparto.svg" crc="9187361" seo="true" mt="1629156876000"/>
+    <file name="repartidor.svg" crc="4055884180" seo="true" mt="1629156871000"/>
+    <file name="entrega-de-comida.svg" crc="341518647" seo="true" mt="1629156868000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda:sin-título-3:tienda---copia"/>
+    <file name="museutils.js" crc="3939489907" ref="index:tienda:sin-título-3:tienda---copia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tienda:sin-título-3:tienda---copia"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:tienda:sin-título-3:tienda---copia"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:tienda"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:tienda:sin-título-3:tienda---copia"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:tienda:sin-título-3:tienda---copia"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-alena-darmel-7322198.jpg" crc="4151919880" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo shoppluscol negativo alta resulucion.png" crc="4223956530" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="articulo-1" alt=""/>
+    </file>
+    <file name="camion-de-reparto.svg" crc="9187361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camion-de-reparto_poster_.png" crc="4057705053" ref="index"/>
+    <file name="repartidor.svg" crc="4055884180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="repartidor_poster_.png" crc="4037625064" ref="index"/>
+    <file name="entrega-de-comida.svg" crc="341518647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entrega-de-comida_poster_.png" crc="3854018195" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tienda"/>
+    <file name="1.jpg" crc="4095633910" ref="index:tienda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="nequi.png" crc="96758687" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-efecty.svg" crc="331150479" ref="index"/>
+    <file name="logo-efecty_poster_u1049.png" crc="4066372370" ref="index"/>
+    <file name="davivienda.png" crc="227214441" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="daviplata.png" crc="274891242" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bancolombia.png" crc="214988970" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-fb.svg" crc="425697486" seo="true" ref="index:tienda:sin-título-3:tienda---copia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda---copia" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="articulo-1" alt=""/>
+      <caption webpage="sin-título-3" alt=""/>
+    </file>
+    <file name="icon-fb_poster_.png" crc="3840217340" ref="index"/>
+    <file name="icon-ig.svg" crc="515773745" seo="true" ref="index:tienda:sin-título-3:tienda---copia">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda---copia" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="articulo-1" alt=""/>
+      <caption webpage="sin-título-3" alt=""/>
+    </file>
+    <file name="icon-ig_poster_.png" crc="3976674464" ref="index"/>
+    <file name="parlante jbl sin fondo -recuperado.png" crc="85235222" seo="true" ref="sin-título-3:tienda---copia">
+      <caption webpage="articulo-1" alt=""/>
+      <caption webpage="sin-título-3" alt=""/>
+      <caption webpage="tienda---copia" alt=""/>
+    </file>
+    <file name="26364 -convertido--01.jpg" crc="3980802249" ref="tienda---copia">
+      <caption webpage="articulo-1" alt=""/>
+      <caption webpage="tienda---copia" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4062997063" seo="true" mt="1629259778325" redirect="true"/>
+  <file name="tienda.html" crc="4087376639" seo="true" mt="1629259667335" redirect="true"/>
+  <file name="sin-título-3.html" crc="117319747" seo="true" mt="1629260083376" redirect="true"/>
+  <file name="tienda---copia.html" crc="4277556264" seo="true" mt="1629260322562" redirect="true"/>
+</manifest>
